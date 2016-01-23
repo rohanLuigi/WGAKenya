@@ -1,6 +1,6 @@
 ### Genomic Selection in Livestock
 
-### January 31 to February 7
+### February 1-5, 2016
 
 ### Egerton University, Njoro, Kenya
 
