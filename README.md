@@ -19,3 +19,7 @@
 * Graduate-level course in quantitative genetics.
 * Graduate-level course in statistics.
 * Basic understanding of concepts in QTL mapping, linkage, linkage disequilibrium and computer programming.
+
+### Notes:
+* Day 1:
+  * [Simulation of data using Julia](JupyterNotebooks/dataSimulation.ipynb)  
