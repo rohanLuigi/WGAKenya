@@ -34,3 +34,4 @@
 * [Input/output from files](http://nbviewer.ipython.org/github/reworkhow/JuliaGenBook/blob/master/section_1_basics/rwfiles.ipynb)
 * [Sort rows of matrix](http://nbviewer.ipython.org/github/reworkhow/JuliaGenBook/blob/master/section_5_appendix/commands.ipynb)
 * [Package Management](http://nbviewer.ipython.org/github/reworkhow/GPW2015/blob/master/notes/Pkg.ipynb)
+* [Jupyter Notebook Documentation](http://jupyter-notebook.readthedocs.org/en/latest/index.html)
