@@ -22,5 +22,5 @@
 
 ### Notes:
 * Day 1:
-  * [Simulation of data using Julia](JupyterNotebooks/1.0.dataSimulation.ipynb)  
+  * [Introduction to Genomic Prediction](Slides/Introduction.pdf)  
   * [Simulation of data using Julia](JupyterNotebooks/1.0.dataSimulation.ipynb)  
