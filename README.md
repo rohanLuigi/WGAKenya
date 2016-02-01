@@ -23,3 +23,4 @@
 ### Notes:
 * Day 1:
   * [Simulation of data using Julia](JupyterNotebooks/1.0.dataSimulation.ipynb)  
+  * [Simulation of data using Julia](JupyterNotebooks/1.0.dataSimulation.ipynb)  
