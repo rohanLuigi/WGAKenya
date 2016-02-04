@@ -29,6 +29,7 @@
 ### Julia Links:
 
 * [Julia Documentation](http://julia.readthedocs.org/en/latest/)
+* [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
 * [Learn X in Y minutes](http://learnxinyminutes.com/docs/julia/)
 * [Julia Cheat Sheet](Slides/Julia-cheatsheet.pdf)
 * [Input/output from files](http://nbviewer.ipython.org/github/reworkhow/JuliaGenBook/blob/master/section_1_basics/rwfiles.ipynb)
