@@ -36,3 +36,6 @@
 * [Sort rows of matrix](http://nbviewer.ipython.org/github/reworkhow/JuliaGenBook/blob/master/section_5_appendix/commands.ipynb)
 * [Package Management](http://nbviewer.ipython.org/github/reworkhow/GPW2015/blob/master/notes/Pkg.ipynb)
 * [Jupyter Notebook Documentation](http://jupyter-notebook.readthedocs.org/en/latest/index.html)
+
+### Acknowledgements:
+US Department of Agriculture, Agriculture and Food Research Initiative National Institute of Food and Agriculture Competitive grant no. 2015-67015-22947. 
